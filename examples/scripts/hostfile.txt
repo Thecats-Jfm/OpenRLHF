@@ -1,0 +1,2 @@
+g0002 slots=8
+g0009 slots=8
